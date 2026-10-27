@@ -31,8 +31,8 @@ Técnico en soporte y administración de sistemas, orientado a la **cibersegurid
 - 2021 · Soporte IT (Google & Junior Achievement)
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_Villegas-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_Villegas-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-villegas-521432212)
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?logo=gmail&logoColor=white)](mailto:maty230299@gmail.com)
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=maty2399&show_icons=true&theme=tokyonight&hide_border=true" />
