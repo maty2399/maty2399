@@ -1,29 +1,39 @@
-<h1 align="center">Hola, soy Matias Villegas 👋</h1>
+<h1 align="center">Hola, soy Matías Villegas 👋</h1>
 
 <p align="center">
-  Estudiante de Desarrollo de Software/Cloud/Ciberseguridad · Mendoza, Argentina 🇦🇷
+  <b>Técnico en Sistemas · Redes · Cloud · Ciberseguridad</b><br>
+  📍 Mendoza, Argentina 🇦🇷
 </p>
 
 ---
 
-### 🚀 Sobre mí
-- 🎓 Estoy cursando: Tecnicatura Superior en Desarrollo, Redes y Ciberseguridad en IES Manuel Belgrano 9008
-- 🔭 Ahora trabajo en un **gestor de tareas** con Python
-- 🌱 Aprendiendo: Arquitectura Cloud, Python, Git y desarrollo web
-- 📫 Contacto:
-  - Mail: maty230299@gmail.com 
-  - Linkedin: https://www.linkedin.com/in/matias-villegas-521432212/
+### 🧑‍💻 Sobre mí
+Técnico en soporte y administración de sistemas, orientado a la **ciberseguridad** y la **arquitectura cloud**. Busco aplicar lo que aprendo en entornos modernos y sumarme a equipos de seguridad o ingeniería de infraestructura.
+
+- 💼 Soporte en Sistemas en la **Municipalidad de Maipú** (desde 2022)
+- 🎓 Estudiando la Tecnicatura Superior en **Redes, Telecomunicaciones y Ciberseguridad** (IES 9-008 Manuel Belgrano)
+- ☁️ Cursando **Arquitectura e Ingeniería Cloud**
+- 🌱 Aprendiendo: AWS, Docker, seguridad informática
 
 ### 🛠️ Tecnologías
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,react,mysql,git,docker,aws,linux,powershell" />
 </p>
 
-### 📌 Proyectos destacados
-- **[Gestor de tareas](https://github.com/maty2399/proyecto-integrador-gestor-de-tareas)**: aplicación en Python para organizar tareas.
+### 🚀 Proyectos destacados
+- **Sistema de gestión "Escuela de Verano"**: digitalización de inscripciones ciudadanas para la Municipalidad de Maipú, con arquitectura en contenedores (Docker, PHP, MySQL).
+- **[Gestor de tareas](https://github.com/maty2399/proyecto-integrador-gestor-de-tareas)**: proyecto integrador en Python.
 - **[Portfolio](https://github.com/maty2399/tp2-portafolio-ppi)**: sitio web en HTML.
 
-### 📊 Estadísticas
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maty2399&show_icons=true&theme=tokyonight&hide_border=true" />
+### 🏅 Formación
+- 2026 · Arquitectura e Ingeniería Cloud
+- 2023 · Desarrollo Web Full-Stack (EGG)
+- 2021 · Soporte IT (Google & Junior Achievement)
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_Villegas-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maty2399&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
