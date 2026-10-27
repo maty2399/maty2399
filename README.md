@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Estoy cursando la tecnicatura en Redes y Ciberseguridad en IES Manuel Belgrano 9008
+- 🎓 Estoy cursando: Tecnicatura Superior en Desarrollo, Redes y Ciberseguridad en IES Manuel Belgrano 9008
 - 🔭 Ahora trabajo en un **gestor de tareas** con Python
 - 🌱 Aprendiendo: Arquitectura Cloud, Python, Git y desarrollo web
 - 📫 Contacto:
