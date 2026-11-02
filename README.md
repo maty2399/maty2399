@@ -23,7 +23,8 @@ Técnico en soporte y administración de sistemas, orientado a la **cibersegurid
 ### 🚀 Proyectos destacados
 - **Sistema de gestión "Escuela de Verano"**: digitalización de inscripciones ciudadanas para la Municipalidad de Maipú, con arquitectura en contenedores (Docker, PHP, MySQL).
 - **[Gestor de tareas](https://github.com/maty2399/proyecto-integrador-gestor-de-tareas)**: proyecto integrador en Python.
-- **[Portfolio](https://github.com/maty2399/tp2-portafolio-ppi)**: sitio web en HTML.
+- **[Portfolio grupal](https://github.com/maty2399/tp2-portafolio-ppi)**: sitio web en HTML.
+- **[Portfolio individual](https://maty2399.github.io/)**: sitio web en HTML.
 
 ### 🏅 Formación
 - 2026 · Arquitectura e Ingeniería Cloud
